@@ -27,10 +27,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-
-        eu quero caféee
-
-        eu quero muito cafeeeeeeeeeeeeeee
+        bom dia para todos
       </p>
     </>
   )
